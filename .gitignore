@@ -1,0 +1,8 @@
+.codegraph/
+tools/
+runtime/
+*.log
+android-demo/.gradle/
+android-demo/.kotlin/
+android-demo/**/build/
+android-demo/local.properties
